@@ -1,3 +1,5 @@
+# Code base : https://github.com/OlafenwaMoses/ImageAI
+
 from keras.callbacks import TensorBoard, ModelCheckpoint
 import tensorflow as tf
 import numpy as np
