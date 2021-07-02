@@ -13,3 +13,6 @@ trainer.setTrainConfig(
 	num_experiments=50, 
 	train_from_pretrained_model=WeightPATH)
 trainer.trainModel()
+
+# test
+
